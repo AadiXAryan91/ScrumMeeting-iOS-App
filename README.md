@@ -5,7 +5,7 @@ ScrumdingerX is an iOS app designed for conducting efficient and organized scrum
 
 ## Features
 
-- **Scrum Meeting Creation**: Easily create scrum meetings with specified details such as title, length, and attendees.
+- **Scrum Meeting Creation**: Easily create scrum meetings with specified details such as title, length, and attendees which can be altered at a later time.
 - **User Management**: Add users to the scrum meeting attendees list.
 - **Speech Recognition**: Utilize speech recognition to capture spoken content during the meeting.
 - **Transcription**: Automatically transcribe speech into text for easy review and reference.
