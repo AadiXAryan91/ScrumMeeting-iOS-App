@@ -1,5 +1,5 @@
 # ScrumdingerX
-Created by Aditya Singh(me).
+An iOS Scrum meeting App created by Aditya Singh(me).
 
 ScrumdingerX is an iOS app designed for conducting efficient and organized scrum meetings. It leverages SwiftUI, Foundation, AVFoundation, and Speech frameworks to provide features like creating scrum meetings, adding users, speech recognition, transcription, and history saving for future review.
 
